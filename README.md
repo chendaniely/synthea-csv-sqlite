@@ -1,6 +1,11 @@
 # Synthea CSV data to SQLite
 
-Code to download the Synthea (Synthetic Patient Generation) into a SQLite file
+Code to download the Synthea (Synthetic Patient Generation) into a SQLite file.
+
+> Synthea(TM) is an open-source, synthetic patient generator that models the medical history of synthetic patients
+
+
+You can learn more about Synthea here: <https://synthetichealth.github.io/synthea/>
 
 ## Setup and Download Data
 
